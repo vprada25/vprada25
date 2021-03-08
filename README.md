@@ -15,13 +15,13 @@ const Victor = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![Victor Prada github stats](https://github-readme-stats.vercel.app/api?username=vprada25&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+<a href="https://github.com/vprada25">
+  <img src="https://img.shields.io/github/followers/vprada25">
 </a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+<a href="https://github.com/vprada25">
+   <img src="https://komarev.com/ghpvc/?username=vprada25">
 </a>
 
 <!--
