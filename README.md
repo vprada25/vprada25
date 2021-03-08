@@ -2,14 +2,13 @@
 
 ```javascript
 const Victor = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
             js: ["Html", "React"],
             css: ["bootstrap", "sass", "Antd"]
         },
-        backEnd: ["Java", "Nest js","Node Js"],
+        backEnd: ["Java", "Nest js","Node Js","Firebase"],
         databases: ["MySql", "oracle","Postgress"],
     }
 };
