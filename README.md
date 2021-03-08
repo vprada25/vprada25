@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ```javascript
-const charles = {
+const Victor = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            js: ["Html", "React"],
+            css: ["bootstrap", "sass", "Antd"]
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
+        backEnd: ["Java", "Nest js","Node Js"],
+        databases: ["MySql", "oracle","Postgress"],
     }
 };
 ```
