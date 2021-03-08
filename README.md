@@ -15,6 +15,15 @@ const Victor = {
 };
 ```
 
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
+
 <!--
 **vprada25/vprada25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
