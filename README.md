@@ -5,7 +5,7 @@ const Victor = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["Html", "React"],
+            js: ["Html", "React","Angular"],
             css: ["bootstrap", "sass", "Antd"]
         },
         backEnd: ["Java", "Nest js","Node Js","Firebase"],
