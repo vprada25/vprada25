@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Victor Alejandro Prada Noreña</h1>
+<h1 align="center">Hi 👋, I'm Victor Alejandro Prada Noreña  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vprada25&label=Profile%20views&color=0e75b6&style=flat" alt="vprada25" /> </p>
+</h1>
 <h3 align="center">Developer with knowledge in various technologies and experience in building Information Systems. Ability in web application development, software analysis and design, database administration. Availability and adaptability for teamwork, with a great willingness to learn.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vprada25&label=Profile%20views&color=0e75b6&style=flat" alt="vprada25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vprada25" alt="vprada25" /></a> </p>
 
