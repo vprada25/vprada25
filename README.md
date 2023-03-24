@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/vprada25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vprada25/" height="30" width="40" /></a>
 </p>
 
-<table align="left">
+<table align="center">
   <row>
     <td>
      <!-- Card -->
@@ -23,4 +23,3 @@
     </td>
   </row>
 </table> 
-
