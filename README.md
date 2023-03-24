@@ -24,5 +24,3 @@
   </row>
 </table> 
 
-![Snake animation](https://github.com/vprada25/vprada25/blob/output/github-contribution-grid-snake.svg)
-
