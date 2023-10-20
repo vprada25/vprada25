@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor Alejandro Prada Noreña </h1>
+ 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vprada25&label=Profile%20views&color=0e75b6&style=flat" alt="vprada25" /> </p>
-<h3 align="center">Developer with knowledge in various technologies and experience in building Information Systems. Ability in web application development, software analysis and design, database administration. Availability and adaptability for teamwork, with a great willingness to learn.</h3>
+ 
+<h3 align="center"As a Full Stack Developer, I bring a wealth of experience and expertise in a wide range of technologies, specializing in the creation of robust Information Systems. My skill set encompasses web application development, software analysis and design, as well as database administration. I thrive in collaborative team environments, adapting easily and fostering a strong commitment to continuous learning.</h3>
 
 
 - 💬 Ask me about **React, Angular, Javascript, Typescript, Node js**
